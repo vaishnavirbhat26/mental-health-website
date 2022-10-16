@@ -5,3 +5,4 @@ This mental health website allows one to Login and sign up to the website and ke
 We have used HTML, CSS and JavaScript for the Front-end developement
 
 Check the video for demonstration of the website!
+https://github.com/vaishnavirbhat26/mental-health-website/blob/main/mental-health-website.mp4
